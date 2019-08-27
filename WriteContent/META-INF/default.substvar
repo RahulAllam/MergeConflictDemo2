@@ -75,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>FileName</name>
-			<value>C:\Rahul\Git_and_GitHub\File\Demo.txt</value>
+			<value>C:\Rahul\Git_and_GitHub\File2\Demo.txt</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
